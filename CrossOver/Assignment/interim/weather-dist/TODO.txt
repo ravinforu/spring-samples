@@ -1,0 +1,8 @@
+1. Implement TODO part
+2. Code Modularity, Applying Principles and Patterns in required places
+3. Refactor Code where Java 8 is not used
+4. Sonar Static Code Analysis
+5. Evaluate the application performance with JMeter
+6. Caching
+7. Re-evaluate the application performance with JMeter
+8. Clean Architecture
