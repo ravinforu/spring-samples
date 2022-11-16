@@ -14,7 +14,7 @@
         <springframework.version>5.2.22.RELEASE</springframework.version>
         <springsecurity.version>5.2.10.RELEASE</springsecurity.version>
         <jackson.library>2.12.7.1</jackson.library>
-        <hibernate.version>4.3.10.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
 
     <dependencies>
